@@ -1,0 +1,77 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#Cheslin {
+	height: 170px;
+	width: 130px;
+	objectif-fit: cover;
+	border: 2px dotted black;
+	border-radius: 50%;
+	box-shadow: 0 0 20px rgba(0,0,0, .1);
+}
+
+
+.textred {
+	color: red;
+}
+
+
+.card{
+	width: 70%;
+	text-align: center;
+	background-color: rgb(169,169,169 );
+	border: 2px solid black;
+	border-radius: 100px;
+	margin: 20px auto 20px auto;
+	padding: 20px 15px;
+}
+
+.btn-green {
+	background-color: #1c401c6e
+	color: white;
+	padding: 7px 20px;
+	border-radius: 2px
+}
+
+.btn-green:hover{
+	background-color: rgb(107, 112, 92);
+	color: white;
+}
+
+.list-inline {
+	list-style: none; 
+	padding-left: 0px; 
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: #454545;
+}
+
+.list-inline i:hover{
+	color:#1c401c6e;
+}
+
+#introduction p{
+	margin-bottom: 40px;
+}
+
+
+p{
+	letter-spacing: 1px;
+	font-weight: 10; 
+	font-family: 'karla', sans-serif;
+}
+
+
+
+
+
+
